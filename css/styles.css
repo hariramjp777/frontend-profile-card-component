@@ -67,6 +67,7 @@ main .profile img {
   transform: translate(-50%, 0);
   background-color: #ffffff;
   padding: 0.4rem;
+  user-select: none;
 }
 
 main .profile h1 {
