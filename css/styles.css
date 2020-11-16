@@ -1,0 +1,22 @@
+:root {
+  --cyan: hsl(185, 75%, 39%);
+  --desaturatedBlue: hsl(229, 23%, 23%);
+  --grayishBlue: hsl(227, 10%, 46%);
+  --gray: hsl(0, 0%, 59%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  position: relative;
+}
+
+html,
+body {
+  height: 100%;
+}
