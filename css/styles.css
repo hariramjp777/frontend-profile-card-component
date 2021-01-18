@@ -152,7 +152,7 @@ main .social ul li p:last-child {
   }
   .attribution {
     position: static;
-    margin-bottom: 2rem;
+    padding-bottom: 2rem;
   }
 }
 
